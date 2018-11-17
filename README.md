@@ -1,3 +1,2 @@
 # Vasiya
-site 
-wordpress
+Сайт на Wordpress
